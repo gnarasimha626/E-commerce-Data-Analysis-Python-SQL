@@ -1,0 +1,23 @@
+Order_Date,Order_ID,City,Category,Product,Quantity,Unit_Price,Payment_Method,Revenue
+2026-01-03,ORD1001,Hyderabad,Electronics,Laptop,1,55000,UPI,55000
+2026-01-05,ORD1002,Vijayawada,Electronics,Mobile,2,22000,Card,44000
+2026-01-08,ORD1003,Bangalore,Accessories,Headphones,3,2500,UPI,7500
+2026-01-12,ORD1004,Chennai,Home,Office Chair,2,8500,Card,17000
+2026-01-15,ORD1005,Hyderabad,Electronics,Tablet,1,18000,Cash,18000
+2026-01-19,ORD1006,Vijayawada,Accessories,Keyboard,5,1800,UPI,9000
+2026-01-23,ORD1007,Bangalore,Electronics,Monitor,2,12000,Card,24000
+2026-01-27,ORD1008,Chennai,Home,Desk Lamp,4,1500,UPI,6000
+2026-02-02,ORD1009,Hyderabad,Electronics,Mobile,3,22000,Card,66000
+2026-02-06,ORD1010,Vijayawada,Electronics,Laptop,1,55000,UPI,55000
+2026-02-10,ORD1011,Bangalore,Accessories,Mouse,6,900,Cash,5400
+2026-02-14,ORD1012,Chennai,Home,Office Chair,1,8500,Card,8500
+2026-02-18,ORD1013,Hyderabad,Electronics,Monitor,3,12000,UPI,36000
+2026-02-22,ORD1014,Vijayawada,Home,Desk Lamp,5,1500,UPI,7500
+2026-02-26,ORD1015,Bangalore,Electronics,Tablet,2,18000,Card,36000
+2026-03-03,ORD1016,Chennai,Electronics,Laptop,2,55000,UPI,110000
+2026-03-07,ORD1017,Hyderabad,Accessories,Headphones,8,2500,Card,20000
+2026-03-11,ORD1018,Vijayawada,Electronics,Mobile,4,22000,UPI,88000
+2026-03-16,ORD1019,Bangalore,Home,Office Chair,3,8500,Cash,25500
+2026-03-20,ORD1020,Chennai,Accessories,Keyboard,7,1800,Card,12600
+2026-03-24,ORD1021,Hyderabad,Electronics,Tablet,2,18000,UPI,36000
+2026-03-29,ORD1022,Vijayawada,Electronics,Monitor,1,12000,Card,12000
